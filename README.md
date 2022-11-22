@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Arduino.png" >
+</p>
+
 # Temperature-monitoring-with-arduino
 In this project the aim was to develop a low cost temperature monitoring system with calibration by an arduino system. Such system have a 4x4 keypad, three push buttons, a temperature sensor (TMP36), and an arduino uno.
 
